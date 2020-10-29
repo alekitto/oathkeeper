@@ -5,7 +5,6 @@ require (
 	github.com/Masterminds/sprig/v3 v3.1.0
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
 	github.com/auth0/go-jwt-middleware v0.0.0-20170425171159-5493cabe49f7
-	github.com/aws/aws-sdk-go v1.23.19
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/bxcodec/faker v2.0.1+incompatible
 	github.com/dgraph-io/ristretto v0.0.2
@@ -23,7 +22,7 @@ require (
 	github.com/gobuffalo/packr/v2 v2.7.1
 	github.com/gobwas/glob v0.2.3
 	github.com/golang/gddo v0.0.0-20190904175337-72a348e765d2
-	github.com/golang/mock v1.3.1
+	github.com/golang/mock v1.4.3
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.1 // indirect
 	github.com/gorilla/websocket v1.4.2
@@ -60,6 +59,7 @@ require (
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	github.com/urfave/negroni v1.0.0
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
+	gocloud.dev v0.20.0
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/tools v0.0.0-20200717024301-6ddee64345a6
